@@ -1,0 +1,37 @@
+
+td img {
+  width: 200px; 
+  height: 100px; 
+  object-fit: cover; 
+ 
+}
+td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 5px;
+  border: 1px solid rgb(255, 255, 255);
+}
+
+th {
+  text-align: center;
+  padding: 5px;
+  border: 1px solid rgb(255, 255, 255);
+}
+
+body {
+    background-color: black; color: white;
+    
+} 
+
+table {
+    border: 1px dashed rgb(255, 255, 255);
+    width: 40%;
+}
+
+.caption1 {
+    color: rgb(255, 255, 255); background-color: #ff0000; font-family: Arial; font-size: larger;
+}
+
+.caption2 {
+    color: rgb(33, 83, 33); background-color: #000000; font-size: larger; font-weight: 1000;
+}
